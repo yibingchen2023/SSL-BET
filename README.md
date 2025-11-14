@@ -10,7 +10,7 @@ The trained model weights are hosted on the Hugging Face Hub for easy access and
 
 **Hugging Face Model Hub:** [https://huggingface.co/yibingchen/SSL-BET/tree/main](https://huggingface.co/yibingchen/SSL-BET/tree/main)
 
-###🔮 Future Work
+### 🔮 Future Work
 We are actively collecting more diverse clinical data to train more robust and generalizable models. Updated models and results will be released in the future.
 
 ## 🚀 Training Guide
